@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IZkP6b5OFTA5C7TVQVq0hXsIFOzyvXxiLeIam0QPZ+Q=",
+  "Source": "tp-minimal-api",
+  "BasePath": "_content/tp-minimal-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tp-minimal-api.props" />
+</Project>
